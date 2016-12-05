@@ -4,6 +4,7 @@ This file explains the analysis and data files in the repository
 
 run_analysis.R
 R code file which runs to:
+
 1. Download and extract the Samsung datasets into work directory if it does not exist.
 2. Import the feature and activity information.
 3. Import the test and train datasets, attach the wanted column names (including only mean and standard deviation measures).
