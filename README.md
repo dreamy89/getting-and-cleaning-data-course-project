@@ -2,8 +2,7 @@
 
 This file explains the analysis and data files in the repository
 
-run_analysis.R
-R code file which runs to:
+run_analysis.R - Data cleaning code which runs to:
 
 1. Download and extract the Samsung datasets into work directory if it does not exist.
 2. Import the feature and activity information.
@@ -13,5 +12,12 @@ R code file which runs to:
 6. Look up activity descriptive names to the activities variable.
 7. Summarize the data by activities and subject, calculate means of all the measures.
 8. Output summarized dataset.
+
+mean.txt - The summarized file from step 8 of run_analysis.R
+
+CodeBook.md - Indicate all the variables and summaries calculated, along with units, and any other relevant information.
+
+
+
 
 
